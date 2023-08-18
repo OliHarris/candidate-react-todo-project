@@ -8,6 +8,6 @@ This was originally a [test set](https://github.com/PenguinOfWar/cra-redux-todo-
 
 ## NOTE:
 
-As this is a Vite, I hosted it on GitHub pages using this guide:
+As this is a Vite app, I hosted it on GitHub pages using this guide:
 
 https://medium.com/@aishwaryaparab1/deploying-vite-deploying-vite-app-to-github-pages-166fff40ffd3
