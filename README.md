@@ -6,6 +6,18 @@ This was originally a [test set](https://github.com/PenguinOfWar/cra-redux-todo-
 
 :heavy_check_mark: No jQuery
 
+## Available Scripts
+
+In the root directory you can run:
+
+### `npm install`
+
+Will perform a usual installation of any dependencies.
+
+### `npm run dev`
+
+Will perform a usual launch of the dev environment.
+
 ## NOTE:
 
 As this is a Vite app, I hosted it on GitHub pages using this guide:
