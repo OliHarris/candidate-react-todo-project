@@ -1,6 +1,6 @@
 # Todo Project
 
-This was originally a test set, which I have since dropped into a fresh instance of Vite to continue building out.
+This was originally a test set for Sony, which I have since dropped into a fresh instance of Vite to continue building out.
 
 :heavy_check_mark: Code in pure React / TypeScript
 
