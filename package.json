@@ -1,9 +1,9 @@
 {
-  "name": "todo-project",
+  "name": "candidate-react-todo-project",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://oliharris.github.io/todo-project",
+  "homepage": "https://oliharris.github.io/candidate-react-todo-project",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
